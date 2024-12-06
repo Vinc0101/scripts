@@ -8,3 +8,6 @@ this is a new line
 this commit is fine
 
 thhis commit is also fine
+
+
+this is a bugo
