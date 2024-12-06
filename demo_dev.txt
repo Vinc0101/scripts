@@ -7,7 +7,4 @@ this is a new line
 
 this commit is fine
 
-
-this commit is wrong (bug, issue etc.)
-
 thhis commit is also fine
